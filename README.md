@@ -17,7 +17,7 @@ This project is a Compose application that displays a clock with music informati
 ## Screenshots
 
 
-<img src="Screenshot_2024-07-17-11-55-04-203_com.example.clockanimation-edit.png" alt="Clock Screen" width="300"/>
+<img src="screenshot.jpg" alt="Clock Screen" width="300"/>
 *Description: The screen showing the music player interface with song information and control buttons.*
 
 ## Video Demonstration
